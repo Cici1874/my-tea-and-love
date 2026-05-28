@@ -1,6 +1,6 @@
 {
   "name": "我的果茶",
-  "short_name": "果茶",
+  "short_name": "得闲饮茶",
   "description": "果茶配方记录 & 成本计算",
   "start_url": "./index.html",
   "display": "standalone",
